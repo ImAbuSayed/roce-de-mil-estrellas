@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Roce de mil estrellas
+
+This log tracks the cryptographic history and versioning for the song **Roce de mil estrellas** (roce-de-mil-estrellas).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T04:07:41.819875 | `v1` | `109a136f4aa38cf8023196a2ec20e6f61aa169f872f31712efe772d9cd660f28` | `a73b4e9aa818fa59946e9fc25db9747224f4851042ac4c07824e5d0409af6efe` | `2026-06-21_roce-de-mil-estrellas-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

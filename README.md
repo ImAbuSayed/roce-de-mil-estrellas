@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/roce-de-mil-estrellas/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Roce de mil estrellas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-de-mil-estrellas/) |
+| **Get License** | [Music Rights & Licensing for Roce de mil estrellas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-de-mil-estrellas/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `109a136f4aa38cf8023196a2ec20e6f61aa169f872f31712efe772d9cd660f28` |
 | **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
